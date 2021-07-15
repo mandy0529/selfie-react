@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/selfie-react/static/css/main.9c2012e7.chunk.css",
+    "main.js": "/selfie-react/static/js/main.1e9d0e18.chunk.js",
+    "main.js.map": "/selfie-react/static/js/main.1e9d0e18.chunk.js.map",
+    "runtime-main.js": "/selfie-react/static/js/runtime-main.e764d23e.js",
+    "runtime-main.js.map": "/selfie-react/static/js/runtime-main.e764d23e.js.map",
+    "static/js/2.186864d0.chunk.js": "/selfie-react/static/js/2.186864d0.chunk.js",
+    "static/js/2.186864d0.chunk.js.map": "/selfie-react/static/js/2.186864d0.chunk.js.map",
+    "index.html": "/selfie-react/index.html",
+    "static/css/main.9c2012e7.chunk.css.map": "/selfie-react/static/css/main.9c2012e7.chunk.css.map",
+    "static/js/2.186864d0.chunk.js.LICENSE.txt": "/selfie-react/static/js/2.186864d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e764d23e.js",
+    "static/js/2.186864d0.chunk.js",
+    "static/css/main.9c2012e7.chunk.css",
+    "static/js/main.1e9d0e18.chunk.js"
+  ]
+}
